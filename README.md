@@ -46,12 +46,12 @@ Data analytics is one of the fastest-growing and most accessible career fields f
 
 ## 👥 Team
 
-Group 4 — Eskwelabs Data Analytics Bootcamp
-Keum Jeng Riman
-Jake Roderick Pido
-Yanna Kacey Dee 
-Pocholo Gabriel Jimenez 
-Reignelle Joy Canasa
+Group 4 — Eskwelabs Data Analytics Bootcamp:
+- Keum Jeng Riman
+- Jake Roderick Pido
+- Yanna Kacey Dee 
+- Pocholo Gabriel Jimenez 
+- Reignelle Joy Canasa
 
 ## 📚 Data Source
 
