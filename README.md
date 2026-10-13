@@ -3,7 +3,7 @@
 
 > *Which industries and skills give new data analysts the best entry opportunities, highest starting pay, and strongest salary growth potential?*
 
-A data analysis project completed as part of the **Eskwelabs Data Analytics Bootcamp** (Sprint 3 Final Output, Group 4).
+A data analysis project completed as part of the **Eskwelabs Data Analytics Bootcamp**.
 
 ## 📌 Project Overview
 
