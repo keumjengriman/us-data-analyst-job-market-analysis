@@ -44,14 +44,6 @@ Data analytics is one of the fastest-growing and most accessible career fields f
 - **State & Regional Agencies** and **Real Estate** require the least experience (~2.6–3 years) to move from Junior to Senior.
 - Across most industries, **SQL** and **Excel** are the foundational skills, with Python, Statistics, and Tableau as secondary differentiators.
 
-## 👥 Team
-
-Group 4 — Eskwelabs Data Analytics Bootcamp:
-- Keum Jeng Riman
-- Jake Roderick Pido
-- Yanna Kacey Dee 
-- Pocholo Gabriel Jimenez 
-- Reignelle Joy Canasa
 
 ## 📚 Data Source
 
